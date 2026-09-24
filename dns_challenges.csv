@@ -1,0 +1,4 @@
+hostname,zone,cname_challenge,cname_target
+codetest.mybattery.com,mybattery.com,_acme-challenge.codetest.mybattery.com,ac.0821d3528b33012f8878d095ba701da1.codetest.mybattery.com.validate-akdv.net
+zbdnstest.com,zbdnstest.com,_acme-challenge.zbdnstest.com,ac.c1b84df950b75652b49ba9a54d34af1e.zbdnstest.com.validate-akdv.net
+mysite.zbdnstest.com,zbdnstest.com,_acme-challenge.mysite.zbdnstest.com,ac.f05cc2a8e0339c57fbf4ede8c2b676d2.mysite.zbdnstest.com.validate-akdv.net
